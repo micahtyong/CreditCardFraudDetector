@@ -6,9 +6,9 @@ Built using SKLearn's IsolationForest implementation and SKLearn's LocalOutlierF
 
 # Process # 
 
-<img src = "Demo/ParameterLearning.png" width = "300">
-<img src = "Demo/CorrelationMatrix.png" width = "300">
+<img src = "Demo/ParameterLearning.png" width = "400">
+<img src = "Demo/CorrelationMatrix.png" width = "400">
 
 # Results # 
 
-<img src = "Demo/Results.png" width = "300">
+<img src = "Demo/Results.png" width = "400">
